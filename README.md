@@ -1,7 +1,3 @@
-# Jenkins
-CI/CD Pipeline Project
-
-Simple_s3_cft.json
 {
     "AWSTemplateFormatVersion": "2010-09-09",
     "Resources": {
